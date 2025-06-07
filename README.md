@@ -6,6 +6,7 @@
 
 O RESOURCEMAP é um aplicativo móvel desenvolvido em React Native que facilita a conexão entre doadores e organizações que precisam de ajuda. A plataforma permite o cadastro de doações, necessidades e realização de matches entre oferta e demanda de recursos humanitários.
 
+- Link do video da aplicação rodando: https://youtu.be/ZAl2CDYfFwI
 
 📸 Screenshots
 
@@ -15,8 +16,6 @@ Telas de login e registro com design moderno e validação de formulários
 ![ResourceMap login ](https://github.com/bia98silva/ResourcemapMobile/blob/main/img/loginscreen.jpg)
 
 ![ResourceMap criar conta](https://github.com/bia98silva/ResourcemapMobile/blob/main/img/criarcontascreen.jpg)
-
-
 
 🏠 Dashboard e Navegação
 
@@ -214,8 +213,6 @@ Background: #f7fafc (Light Gray)
 - **Shadow System** para cards
 - **Haptic Feedback** para interações
 - **Icon System** com Ionicons
-
-- Link do video da aplicação rodando: https://youtu.be/ZAl2CDYfFwI
 
 
 **RESOURCEMAP Team**
