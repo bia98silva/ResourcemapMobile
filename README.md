@@ -215,6 +215,8 @@ Background: #f7fafc (Light Gray)
 - **Haptic Feedback** para interações
 - **Icon System** com Ionicons
 
+- Link do video da aplicação rodando: https://youtu.be/ZAl2CDYfFwI
+
 
 **RESOURCEMAP Team**
 - Beatriz Silva - RM552600
